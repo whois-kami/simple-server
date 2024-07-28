@@ -1,2 +1,2 @@
 # simple web-server
-simple-server made by golang
+simple web-server made by golang
